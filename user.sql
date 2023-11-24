@@ -1,0 +1,13 @@
+insert into user.sql ,
+(id,phone,age,email),
+VALUES,
+(2,(340) 651-3923,30,joyce.nader@mail.ru),
+(3,052-444-7770,25,krystin.lakin@mail.ru),
+(4,690-610-8784,28,elisha.lynch@mail.ru),
+(5,1-236-646-9647,50,mamie.kilback@gmail.com),
+(6,797.501.2551,40,ardath.deckow@mail.ru),
+(7,675-760-8018,0,kasey.daugherty@gmail.com),
+(8,712-370-9368,6,laurinda.simonis@mail.ru),
+(9,340.666.0318,46,luigi.schmitt@gmail.com),
+(10,1-616-983-3705,30,cris.tromp@gmail.com),
+(11,(828) 894-9724,25,amado.willms@mail.ru)
